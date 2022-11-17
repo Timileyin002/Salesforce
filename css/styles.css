@@ -1,0 +1,642 @@
+body{
+    margin: 0;
+}
+
+img{
+    padding: 25px;
+    margin-left: 10px;
+    width: 70px;
+    margin-top: -12px;
+}
+li{
+    display: inline;
+    font-weight: 1000;
+    margin-left: 50px;
+    margin-top: px;
+}
+.none a{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+ul.none{
+    list-style-type: none;
+}
+.none{
+    margin-left: 50px;
+    margin-top: -60px;
+}
+.code1 {
+    margin-left: 890px;
+    margin-top: -50px;
+    font-size: large;
+    font-weight: 3000;
+}
+.code2{
+    margin-left: 874px;
+    margin-bottom: 200px;
+}
+.code2 a{
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.code3{
+    margin-left:1170px;
+    margin-top: -227px;
+}
+.code3 a{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(5, 131, 82);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.imgone{
+    width: 100%;
+    height: 600px;
+    margin-top: 20px;
+    background-image: url(../Images/homepage-post-df-cost-savings-lg-bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.img2{
+    margin-left: 700px;
+    margin-top: -550px;
+}
+.img2 img{
+    width: 550px;
+}
+.text h1{
+    margin-top: -500px;
+    margin-left: 80px;
+    font-weight: 900px;
+    font-style:normal;
+    color: rgb(16, 63, 107);
+    font-size: 55px;
+    font-weight: bold;
+}
+.text p{
+    margin-left: 80px;
+    font-size: 27px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: -20px;
+}
+.seven a{
+    margin-left: 80px;
+    text-decoration: none;
+    background-color: rgb(2, 121, 71);
+    padding: 14px 19px 14px 19px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+.seven{
+    margin-top: 50px;
+}
+.eight a{
+    margin-left: 259px;
+    text-decoration: none;
+    font-size: largerpx;
+    font-weight: bold;
+    color: rgb(8, 89, 155);
+    border-style:outset;
+    padding: 10px 25px 10px 25px;
+    border-radius: 5px;
+}
+.eight{
+    margin-top: -20px;
+}
+.nine {
+    margin-left: 455px;
+    margin-top: 300px;
+    font-size: larger px;
+    font-weight: bolder;
+    color: rgb(23, 27, 53);
+}
+.img3 img{
+    width: 400px;
+    border-radius: 40px;
+}
+.img3 p{
+    margin-left: 40px;
+    margin-top: -7px;
+    font-size: small;
+    font-weight: bolder;
+    color: rgb(17, 42, 70);
+}
+.img4 img{
+    margin-left: 450px;
+    margin-top: -1000px;
+    width: 400px;
+    border-radius: 40px;
+    margin-bottom: 40px;
+}
+.img4 p{
+    margin-left: 480px;
+    margin-top: -50px;
+    font-size: small;
+    font-weight: bolder;
+    color: rgb(17, 42, 70);
+}
+.img5 img{
+    margin-left: 890px;
+    margin-top: -315px;
+    margin-bottom: 250px;
+    width: 400px;
+    border-radius: 40px;
+}
+.img5 p{
+    margin-left: 920px;
+    margin-top: -259px;
+    margin-bottom: 20px;
+    font-size: small;
+    font-weight: bolder;
+    color: rgb(23, 27, 53);
+}
+.textif{
+    margin-left: 40px
+}
+.textif a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(23, 27, 53);
+}
+.textif2{
+    margin-left: 475px;
+    margin-top: -55px;
+}
+.textif2 a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(23, 27, 53);
+}
+.textif3{
+    margin-left: 920px;
+    margin-top: -55px;
+}
+.textif3 a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(23, 27, 53);
+}
+.title1{
+    margin-top: 100px;
+    font-size: 19px;
+    font-weight: bolder;
+    color: rgb(29, 34, 68);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.imgsix a img{
+    width: 200px;
+}
+.imgseven img{
+    margin-left: 300px;
+}
+.imgseven a img{
+    margin-top: -559px;
+    width: 200px;
+}
+
+.flex{
+    display: flex;
+    box-shadow:0px 3px 10px rgb(0 0 0/ 0.2);
+}
+.flex img{
+    width: 200px;
+    margin-left: 55px;
+}
+.flex a{
+    text-decoration: none;
+    font-size:large;
+    margin-left: 120px;
+    font-weight: bolder;
+    color: rgb(45, 51, 85);
+}
+.flex p{
+    font-size: small;
+    margin-left: 70px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.demo{
+    display: flex;
+    margin-left: -140px;
+    margin-top: 50px;
+}
+.demo a{
+    text-decoration: none;
+    margin-left: 230px;
+    margin-right: 10px;
+    font-size: small;
+    margin-bottom: -100px;
+    color: rgb(22, 122, 204);
+    border-style:outset;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.learn{
+    margin-top: 60px;
+    display: flex;
+    margin-left: -190px;
+}
+.learn a{
+    text-decoration: none;
+    margin-left: 290px;
+    font-weight: bolder;
+    color: rgb(32, 37, 82);
+}
+.center2{
+    margin-top: 90px;
+    font-weight: 600;
+    font-size: 30px;
+    color: rgb(26, 29, 58);
+}
+.explore{
+    margin-top: 70px;
+    font-size: small;
+}
+.explore a{
+    text-decoration: none;
+    background-color: rgba(19, 75, 180, 0.986);
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+.sort p{
+    margin-top: 70px;
+    font-size: 40px;
+    margin-left: 20px;
+    font-weight: bolder;
+    color: rgb(36, 34, 85);
+}
+#push{
+    margin-top: -20px;
+    height: 350px;
+    width: 600px;
+    border-radius: 30px;  
+}
+.sames{
+    width: 300px;
+    border-radius: 40px;
+}
+.mee{
+    display: flex;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.we{
+    margin-left: px;
+}
+#crm{
+    display: flex;
+}
+#push img p{
+    margin-left: 200px;
+}
+.pushh{
+    margin-left: 40px;
+}
+.imgone1{
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+    background-image: url(../Images/php-breaker-desktop-1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ree{
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(24, 36, 63);
+}
+.gud{
+    display: flex;
+}
+.gud img{
+    width: 400px;
+    margin-left: -5px;
+    border-radius: 40px;
+}
+.gud p{
+    margin-left: 30px;
+    color: rgb(41, 40, 94);
+    font-weight: 20px;
+    font-size: small;
+}
+.gud a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(36, 34, 87);
+    font-size: x-large;
+    font-weight: bolder;
+}
+#second p{
+    font-size: 35px;
+    margin-top: 100px;
+    font-weight: bold;
+    color: rgb(36, 34, 87);
+}
+#images{
+    display: flex;
+}
+.border{
+    margin-left: 60px;
+    box-shadow:0px 3px 10px rgb(0 0 0/ 0.2);
+    padding: 25px;
+    border-radius: 5px;
+}
+.border1{
+    margin-left: 100px;box-shadow:0px 3px 10px rgb(0 0 0/ 0.2);
+    padding: 25px;
+    border-radius: 5px;
+}
+.border2{
+    margin-left: 100px;
+    box-shadow:0px 3px 10px rgb(0 0 0/ 0.2);
+    padding: 25px;
+    border-radius: 5px;
+}
+#cen{
+    margin-top: 50px;
+}
+#cen a{
+    text-decoration: none;
+   background-color: rgb(27, 121, 184);
+   padding-top: 15px;
+   padding-bottom: 15px;
+   padding-left: 25px;
+   padding-right: 25px;
+   border-radius: 5px;
+   color: rgb(255, 253, 253);
+   font-weight: bold;
+}
+.cenfour{
+    margin-top: 90px;
+}.cenfour p{
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(32, 33, 75);
+}
+#puchtwo{
+    display: flex;
+}
+.meee{
+    margin-left: 100px;
+    box-shadow:0px 3px 10px rgb(0 0 0/ 0.2);
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 5px;
+}
+.meee a{
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.meeee{
+    box-shadow:0px 3px 10px rgb(0 0 0/ 0.2);
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+.meeee a{
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.me{
+    box-shadow:0px 3px 10px rgb(0 0 0/ 0.2);
+    margin-left: 80px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+.me a{
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+#leo{
+    margin-top: 50px;
+    margin-top: 50px;
+}
+#leo a{
+    text-decoration: none;
+    background-color: rgb(27, 121, 184);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+#pushsix{
+    display: flex;
+}
+.textsix{
+    margin-left: 10px;
+    margin-top: 250px;
+}
+.imgssix{
+    margin-top: 90px;
+}
+.imgssix img{
+    width: 660px;
+}
+.textsix p{
+    font-size: 18px;
+}
+.textsix a{
+    text-decoration: none;
+    background-color: rgb(27, 121, 184);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    margin-top: -900px;
+}
+.textsix h1{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.rrr{
+    margin-top: 50px;
+}
+#pushmob{
+    display: flex;
+}
+.txtr{
+    margin-left: 50px;
+    margin-top: 300px;
+}
+.imgd{
+    margin-left: 20px;
+    margin-top: 70px;
+}
+.imgd img{
+    width: 620px;
+    margin-left: -50px;
+}
+.txtr h1{
+    font-weight: bolder;
+    font-size: 40px;
+    color: rgb(35, 25, 53);
+}
+.ggg a{
+    margin-left: 5px;
+    text-decoration: none;
+    background-color: rgb(5, 131, 82);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.ggg{
+    margin-top: 40px;
+}
+#pushthree{
+    display: flex;
+    margin-top: 50px;
+    box-shadow:0px 3px 10px rgb(0 0 0/ 0.2);
+}
+.imgleft img{
+    width: 300px;
+}
+.van{
+    margin-top: 100px;
+}
+.van h1{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.van a{
+    text-decoration: none;
+    margin-left: 200px;   
+    background-color: rgb(27, 121, 184);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+.imgright{
+    margin-top: 170px;
+    margin-left: -20px;
+}
+.imgright img{
+    width: 340px;
+}
+#pushfour{
+    display: flex;
+    margin-top: 70px;
+}
+.litthre{
+    margin-left:150px;
+}
+.list0 a{
+    text-decoration: none;
+    font-size: small;
+    color: blue;
+}
+.list1 a{
+    text-decoration: none;
+    font-size: small;
+    color: blue;
+}
+.list2 a{
+    text-decoration: none;
+    font-size: small;
+    color: rgb(49, 49, 223);
+}
+.litthre p{
+    font-weight: bolder;
+}
+.littwo{
+    margin-left: 150px;
+}
+.littwo p{
+    font-weight: bolder;
+}
+.litone{
+    margin-left: 255px;
+}
+.litone{
+    font-weight: bolder;
+}
+.saleforce img{
+    width: 100px;
+}.saleforce p{
+    margin-left: 40px;
+    font-weight: bolder;
+}
+#pushfive{
+    display: flex;
+    margin-top: 50px;
+    background-color: rgb(43, 67, 126);
+    padding-bottom: 25px;
+}
+.legal p{
+    display: inline;
+}
+.world a{
+    margin-left: 30px;
+    border-style:outset;
+    border-radius: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.copyright{
+    margin-left: 30px;
+}
+
+.world{
+    margin-top: 40px;
+}
+.legal{
+    margin-left: -80px;
+}
+.legal a{
+    margin-left: 30px;
+    font-size: 11px;
+    color: rgb(75, 101, 218);
+}
+.copyright p{
+    font-size: 11px;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.copyright a{
+    color: rgb(75, 101, 218);
+}
